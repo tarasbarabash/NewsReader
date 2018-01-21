@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="country_key">country</string>
+    <string name="category_key">category</string>
+    <string name="country_value">us</string>
+    <string name="category_value">business</string>
+</resources>
